@@ -1,0 +1,17 @@
+{
+  "name": "hot-reload-bug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "@spencerchubb/solver": "^0.1.7"
+  }
+}
